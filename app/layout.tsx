@@ -17,11 +17,24 @@ const jost = Jost({
 })
 
 export const metadata: Metadata = {
-  title: 'Al Kabeer Talbeena | Goodness of Wheat & Dry Fruits',
+  title: "Talbina | Healthy Wheat & Dry Fruits Breakfast | Al Kabeer",
   description:
-    'Al Kabeer Talbeena — a wholesome porridge of wheat and real dry fruits, ready in just 5 minutes. Three delicious flavours, one power-packed choice. No added sugar, no preservatives.',
-  generator: 'v0.app',
-}
+    "Buy Talbina online. Healthy breakfast made with wheat and dry fruits. No added sugar. Ready in 5 minutes. Order Al Kabeer Talbina today.",
+  keywords: [
+    "Talbina",
+    "Buy Talbina",
+    "Talbina online",
+    "Healthy breakfast",
+    "Islamic food",
+    "Wheat porridge",
+    "Dry fruits",
+    "Al Kabeer Talbina",
+    "Healthy food India",
+  ],
+  verification: {
+    google: "g8GaY2P-egWYz4-ey6ypvVEKit2XgXKHdu0XTKWU2AM",
+  },
+};
 
 export const viewport: Viewport = {
   colorScheme: 'light',
