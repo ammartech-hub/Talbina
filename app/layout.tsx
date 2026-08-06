@@ -21,6 +21,10 @@ export const metadata: Metadata = {
   description:
     'Al Kabeer Talbeena — a wholesome porridge of wheat and real dry fruits, ready in just 5 minutes. Three delicious flavours, one power-packed choice. No added sugar, no preservatives.',
   generator: 'v0.app',
+
+  verification: {
+    google: 'g8GaY2P-egWYz4-ey6ypvVEKit2XgXKHdu0XTKWU2AM',
+  },
 }
 
 export const viewport: Viewport = {
