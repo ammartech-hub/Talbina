@@ -17,20 +17,45 @@ const jost = Jost({
 })
 
 export const metadata: Metadata = {
-  title: "Talbina | Healthy Wheat & Dry Fruits Breakfast | Al Kabeer",
+  title:
+    "Talbina | Healthy Wheat & Dry Fruits Breakfast | Al Kabeer | Nutritious Instant Breakfast Mix",
+
   description:
-    "Buy Talbina online. Healthy breakfast made with wheat and dry fruits. No added sugar. Ready in 5 minutes. Order Al Kabeer Talbina today.",
+    "Buy Al Kabeer Talbina online. A healthy and nutritious breakfast made with premium barley and dry fruits. Rich in fiber, vitamins, and essential nutrients. No added sugar, easy to prepare in just 5 minutes. Perfect for kids, adults, seniors, and anyone looking for a wholesome breakfast. Order fresh Talbina online in India today.",
+
   keywords: [
     "Talbina",
     "Buy Talbina",
     "Talbina online",
-    "Healthy breakfast",
-    "Islamic food",
-    "Wheat porridge",
-    "Dry fruits",
+    "Talbina India",
     "Al Kabeer Talbina",
+    "Healthy breakfast",
+    "Healthy breakfast mix",
+    "Instant breakfast",
+    "Nutritious breakfast",
+    "High fiber breakfast",
     "Healthy food India",
+    "Organic Talbina",
+    "Wheat porridge",
+    "Barley porridge",
+    "Dry fruits breakfast",
+    "No added sugar breakfast",
+    "Natural breakfast",
+    "Breakfast for kids",
+    "Breakfast for adults",
+    "Breakfast for seniors",
+    "Healthy diet",
+    "Balanced nutrition",
+    "Islamic food",
+    "Sunnah food",
+    "Wholesome breakfast",
+    "Energy breakfast",
+    "Healthy lifestyle",
+    "Online grocery India",
+    "Premium Talbina",
+    "Best Talbina brand",
   ],
+
   verification: {
     google: "g8GaY2P-egWYz4-ey6ypvVEKit2XgXKHdu0XTKWU2AM",
   },
